@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./PythonEssentials_Part2/Modulo5_Modulos,PaquetesYMetodosDeListas/py/modules",
+        "./PythonEssentials_Part2/Modulo5_Modulos,PaquetesYMetodosDeListas/py/packages"
+    ]
+}
